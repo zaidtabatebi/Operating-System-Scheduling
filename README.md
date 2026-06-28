@@ -50,9 +50,5 @@ The implemented algorithms:
 ![Alt text](/Screenshots/pickingAnAlgo.PNG?raw=true "Picking an algorithm")
 ### Animation mode
 ![Alt text](/Screenshots/screenshotInAnimatingMode.PNG?raw=true "Animation mode")
-## Authors
-- Ahmad Yahya. ( @AhmadYahya97 )
-- Hamed Hijazi. ( @hamed3 )
-## Special thanks
-- For prof. Adnan Yahya on his amazing efforts during this course!.
-- Jfoenix library for its flexible and stylish tools.
+
+
